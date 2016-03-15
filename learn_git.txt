@@ -1,3 +1,5 @@
  Learn git
     in local repository
 ubah text
+
+15 april 2016
