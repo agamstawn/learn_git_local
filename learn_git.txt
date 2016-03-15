@@ -1,6 +1,10 @@
+s
 helo
  Learn git
-oreio
-    in local repository
+sdf 
+oreio 
+  in local repository
 ubah text
+sd
+15 april 2016
 Me from local Dwi
