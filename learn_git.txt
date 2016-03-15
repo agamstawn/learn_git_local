@@ -1,4 +1,6 @@
-helo world
+helo
  Learn git
+oreio
     in local repository
 ubah text
+Me from local Dwi
