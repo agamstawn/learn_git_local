@@ -1,0 +1,30 @@
+{
+  "name": "learn_git_local",
+  "description": "",
+  "main": "",
+  "authors": [
+    "m dwikuntobayu <dwikunto.bayu@kiranatama.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/agamstawn/learn_git_local",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "bootstrap-material-design": "https://github.com/FezVrasta/bootstrap-material-design.git#^4.0.1"
+  },
+  "keywords": [
+    "bower",
+    "grunt",
+    "meteor"
+  ]
+}
